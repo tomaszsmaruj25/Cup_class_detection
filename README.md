@@ -1,3 +1,2 @@
-# Cup_class_detection
+# Cup class detection project
 My project to work - Intended for Raspberry PI
-Test description
