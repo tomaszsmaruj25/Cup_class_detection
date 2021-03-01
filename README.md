@@ -15,7 +15,7 @@ The considerations would focus on finding the most optimal conditions for the op
 ## Example Factor - light.
 Before applying light :
 
-![Dark image detection](assets/unclean_dark.gif)
+![Dark image detection]<img src="assets/unclean_dark.gif" width="100" height="100">
 
 After applying light :
 
