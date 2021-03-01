@@ -6,7 +6,7 @@ The main concept is to create a system that would be used to check the quality o
 
 See on YouTube: [Cup class detection](https://www.youtube.com/watch?v=bSiHZTzwNEM&t=2s)
 
-[![Cup class detection](assets/yt_video_speed.gif = 350x250)](https://www.youtube.com/watch?v=bSiHZTzwNEM&t=2s)
+[![Cup class detection](assets/yt_video_speed.gif)](https://www.youtube.com/watch?v=bSiHZTzwNEM&t=2s)
 
 
 The system control will be based on a Raspberry PI microcontroller with an additional camera. Further, a database will be created containing product photos that will be used to train the neural network model. In the first phase, the project will be implemented in a simulation test environment, and soon on the packing machine.
