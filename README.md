@@ -112,6 +112,6 @@ The training performance is not fully reproduced yet, so I recommended to use Al
   * YOLOv4: Optimal Speed and Accuracy of Object Detection [YOLOv4](https://arxiv.org/abs/2004.10934).
   * [link](link)
   
-   My project is inspired by these previous fantastic YOLOv3 implementations:
+   My project is inspired by these previous fantastic YOLO implementations:
   * [Yolov3 tensorflow](link)
   * [Yolov3 tf2](link)
