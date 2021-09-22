@@ -41,7 +41,7 @@ See on YouTube: [Classification of damaged products](https://www.youtube.com/wat
 * [x] Migrate model to RPI
 * [x] Choose the most efficient solution - SSD Mobilenet v2 FPNLite 320x320
 * [ ] Deploy an anti-crash solution and automatic script execution after restart
-* [ ] Try to execute the script as a service and show video in the sample API 
+* [ ] Try to execute the script as a service and show video in the sample API (different project)
 #### Finally
 * [ ] Earn a Master of Science degree :)
 
