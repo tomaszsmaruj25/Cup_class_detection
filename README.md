@@ -43,7 +43,7 @@ See on YouTube: [Classification of damaged products](https://www.youtube.com/wat
 * [ ] Deploy an anti-crash solution and automatic script execution after restart
 * [ ] Try to execute the script as a service and show video in the sample API (different project)
 #### Finally
-* [ ] Earn a Master of Science degree :)
+* [x] Earn a Master of Science degree :)
 
 
 ## Model Training
