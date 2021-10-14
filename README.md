@@ -1,8 +1,8 @@
 # Cup class detection project
 
-See on YouTube: [Detection of damaged cup classes](SOON)
+See on YouTube: [Detection of damaged cup classes](https://www.youtube.com/watch?v=1_8iTiSo0Rg)
 
-[<img src="assets/roboflow_labels.png" width="550" height="300">](https://www.youtube.com/watch?v=bSiHZTzwNEM)
+[<img src="assets/roboflow_labels.png" width="550" height="300">](https://www.youtube.com/watch?v=1_8iTiSo0Rg)
 
 ## Main idea
 The main concept is to create a system that would be used to check the quality of packaging of food products such as yoghurts or other food products on production lines. The project aims to automate the quality control process through an intelligent vision system based on image processing and Convolutional Neural Networks. The main task of the network would be to detect dirty, damaged and unmarketable items. Placing the camera next to the conveyor belt would allow the elimination of individual pieces of the product already at the stage of exiting the machine, before reaching the carton. 
